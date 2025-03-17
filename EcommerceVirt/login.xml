@@ -44,6 +44,7 @@ return "Ok Response"</con:dispatchPath>
   <con:dispatchXPath/>
   <con:parameterDispatcherRuleContainer/>
   <con:routeScript/>
+  <con:requestRouteScript/>
   <con:response name="OK Response" id="161c44cd-4fd1-4ac7-8109-5ea3359c43e8" httpResponseStatus="200" mediaType="application/json" dataSource="">
     <con:settings/>
     <con:responseContent>{ "sessionid" : "${sessionid}" }</con:responseContent>

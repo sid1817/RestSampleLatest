@@ -52,6 +52,7 @@ return "Search Response"</con:dispatchPath>
   <con:dispatchXPath/>
   <con:parameterDispatcherRuleContainer/>
   <con:routeScript/>
+  <con:requestRouteScript/>
   <con:response name="Search Response" id="41e68c78-6373-4c24-aaf9-80d73863f033" httpResponseStatus="200" mediaType="application/json" dataSource="">
     <con:settings/>
     <con:responseContent>{
