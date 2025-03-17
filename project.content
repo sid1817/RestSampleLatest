@@ -1,0 +1,12 @@
+Ecommerce\buy.xml
+Ecommerce\Login.xml
+Ecommerce\logout.xml
+Ecommerce\search.xml
+Sample-REST-Test-Suite\Simple-Login-Call.xml
+Sample-REST-Test-Suite\Integration-Test.xml
+Sample-REST-Test-Suite\DataDriven-REST-Test.xml
+EcommerceVirt\%2Ftest.xml
+EcommerceVirt\buy.xml
+EcommerceVirt\login.xml
+EcommerceVirt\logout.xml
+EcommerceVirt\search.xml
